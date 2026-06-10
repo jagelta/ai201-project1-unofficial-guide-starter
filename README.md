@@ -18,14 +18,14 @@ They are all cybersecurity books that I already own. I will provide the amazon l
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | Black Hat Python, 2nd Edition — Justin Seitz & Tim Arnold (2021, No Starch Press) | PDF | documents/[{Cyber-Security-COVER} ] Justin Seitz & Tim Arnold - Black Hat Python, 2nd Edition (2021, No Starch Press) - libgen.li.pdf |
+| 1 | Threat Intelligence Handbook-THlink.pdf | PDF | documents/Threat Intelligence Handbook-THlink.pdf |
 | 2 | Offensive Security PEN-300: Evasion Techniques and Breaching Defenses (2020) | PDF | documents/Offensive Security - OSEP - PEN-300 - Evasion Techniques and Breaching Defenses (2020) - libgen.li.pdf |
 | 3 | The Web Application Hacker's Handbook — Stuttard & Pinto | PDF | documents/The Web Application Hacker's Handbook_ Finding and -- Stuttard, Dafydd & Pinto, Marcus -- Anna's Archive.pdf |
 | 4 | Operator Handbook: Red Team + OSINT + Blue Team Reference — Joshua Picolet (2020) | PDF | documents/Operator handbook _ Red Team + OSINT + Blue Team Reference -- Joshua Picolet -- Anna's Archive-1.pdf |
 | 5 | Red Team Development and Operations: A Practical Guide — Joe Vest & James Tubberville | PDF | documents/Red Team Development and Operations A Practical Guide (Joe Vest, James Tubberville) (z-library.sk, 1lib.sk, z-lib.sk).pdf |
 | 6 | Offensive Security PEN-200 / OSCP (2023 version) | PDF | documents/PEN200 - OSCP - 2023 version (Shared by Tamarisk) (Z-Library).pdf |
 | 7 | Cloud Penetration Testing for Red Teamers | PDF | documents/Cloud Penetration Testing for Red Teamers _ Learn How to.pdf |
-| 8 | Coding for Penetration Testers: Building Better Tools — Jason Andress | PDF | documents/Coding_for_Penetration_Testers_Building_Better_Tools_Jason_Andress.pdf |
+| 8 | The Cyber Intelligence Analyst Cookbook Volume 1 2020-THlink.pdf | PDF | documents/The Cyber Intelligence Analyst Cookbook Volume 1 2020-THlink.pdf |
 | 9 | Definitive Guide to Cyber Threat Intelligence | PDF | documents/Definitive-Guide-to-CTI-THlink.pdf |
 | 10 | NIST Cybersecurity Framework 2.0 (NIST.CSWP.29) | PDF | documents/NIST.CSWP.29.pdf |
 
@@ -120,10 +120,10 @@ The model then cites these numbers in its response. I also added a verbose mode 
      Write a specific explanation of *why* it failed, tied to a part of the pipeline.
 
      "The answer was wrong" is not an explanation.
-
+    
      "The relevant information was split across a chunk boundary, so retrieval returned
      only half the context — the model didn't have enough to answer correctly" is an explanation.
-
+    
      "The embedding model treated the professor's nickname as out-of-vocabulary and returned
      results from an unrelated review" is an explanation. -->
 
